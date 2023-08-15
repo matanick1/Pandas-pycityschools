@@ -27,11 +27,3 @@ To run this notebook:
 1. Ensure you have all the necessary dependencies installed. The notebook begins with an import section which can guide you on what's required.
 2. Load your data files if they differ from the ones used in this notebook.
 3. Execute cells sequentially to obtain the desired insights and metrics.
-
-### Contributing
-
-If you find any issues or would like to add more analyses, please consider making a pull request or opening an issue.
-
----
-
-**Note:** This README provides a basic overview based on the initial contents of the notebook. To get a comprehensive understanding, it's recommended to go through the entire notebook.
